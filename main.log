@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  8 FEB 2019 09:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  8 FEB 2019 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,22 +236,22 @@ LaTeX Font Info:    ... okay on input line 41.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
-* h-part:(L,W,R)=(3.61371pt, 787.74257pt, 3.61371pt)
-* v-part:(T,H,B)=(3.61371pt, 607.06758pt, 3.61371pt)
+* h-part:(L,W,R)=(0.0pt, 794.96999pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 614.295pt, 0.0pt)
 * \paperwidth=794.96999pt
 * \paperheight=614.295pt
-* \textwidth=787.74257pt
-* \textheight=607.06758pt
-* \oddsidemargin=-68.65628pt
-* \evensidemargin=-68.65628pt
-* \topmargin=-105.65628pt
+* \textwidth=794.96999pt
+* \textheight=614.295pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
-* \columnsep=7.22743pt
+* \columnsep=3.61371pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -328,11 +328,11 @@ e
 Here is how much of TeX's memory you used:
  3226 strings out of 492641
  42993 string characters out of 6131787
- 190827 words of memory out of 5000000
+ 197124 words of memory out of 5000000
  7086 multiletter control sequences out of 15000+600000
  4535 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,35p,1657b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,5n,35p,1657b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/tex
@@ -341,7 +341,7 @@ mf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf
 onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmsy5.pfb>
-Output written on main.pdf (1 page, 113791 bytes).
+Output written on main.pdf (1 page, 114972 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
